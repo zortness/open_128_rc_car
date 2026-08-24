@@ -9,7 +9,7 @@
       "file": "01_PanChassisTwoPiece.FCStd",
       "object_name": "Body",
       "label": "TwoPiecePanMainPlate",
-      "output_name": "TwoPiecePanMainPlate",
+      "output_name": "PanChassisTwoPieceMain",
       "volume": 10609.93,
       "type": "PartDesign::Body"
     },
@@ -19,7 +19,7 @@
       "file": "01_PanChassisTwoPiece.FCStd",
       "object_name": "Body019",
       "label": "RightSteeringKnuckle",
-      "output_name": "RightSteeringKnuckle",
+      "output_name": "SteeringKnuckle_Right",
       "volume": 252.93,
       "type": "PartDesign::Body"
     },
@@ -31,6 +31,16 @@
       "label": "SteeringLink",
       "output_name": "SteeringLink",
       "volume": 245.0,
+      "type": "PartDesign::Body"
+    },
+    "01_PanChassisTwoPiece.FCStd::Body023": {
+      "enabled": true,
+      "format": "stl",
+      "file": "01_PanChassisTwoPiece.FCStd",
+      "object_name": "Body023",
+      "label": "LeftSteeringKnuckle",
+      "output_name": "SteeringKnuckle_Left",
+      "volume": 252.93,
       "type": "PartDesign::Body"
     },
     "02_WheelProxies.FCStd::Body002": {
@@ -154,7 +164,7 @@
       "type": "PartDesign::Body"
     },
     "03_Servo.FCStd::Body083": {
-      "enabled": false,
+      "enabled": true,
       "format": "stl",
       "file": "03_Servo.FCStd",
       "object_name": "Body083",
@@ -164,7 +174,7 @@
       "type": "PartDesign::Body"
     },
     "03_Servo.FCStd::Body084": {
-      "enabled": false,
+      "enabled": true,
       "format": "stl",
       "file": "03_Servo.FCStd",
       "object_name": "Body084",
@@ -188,8 +198,8 @@
       "format": "stl",
       "file": "04_Gears.FCStd",
       "object_name": "Body014",
-      "label": "MainGear42T",
-      "output_name": "MainGear42T",
+      "label": "MainGear42T_M05",
+      "output_name": "MainGear42T_M05",
       "volume": 978.19,
       "type": "PartDesign::Body"
     },
@@ -198,8 +208,8 @@
       "format": "stl",
       "file": "04_Gears.FCStd",
       "object_name": "Body015",
-      "label": "Pinion 10T-64p",
-      "output_name": "Pinion_10T-64p",
+      "label": "Pinion_10T_M05",
+      "output_name": "Pinion_10T_M05",
       "volume": 131.04,
       "type": "PartDesign::Body"
     },
@@ -208,8 +218,8 @@
       "format": "stl",
       "file": "04_Gears.FCStd",
       "object_name": "Body031",
-      "label": "MainGear42T15DegBevel",
-      "output_name": "MainGear42T15DegBevel",
+      "label": "MainGear42T_M05_15DegBevel",
+      "output_name": "MainGear_42T_M05_15DegBevel",
       "volume": 880.37,
       "type": "PartDesign::Body"
     },
@@ -218,8 +228,8 @@
       "format": "stl",
       "file": "04_Gears.FCStd",
       "object_name": "Body085",
-      "label": "Pinion 10T XL 64p",
-      "output_name": "Pinion_10T_XL_64p",
+      "label": "Pinion_10T_XL_M05",
+      "output_name": "Pinion_10T_XL_M05",
       "volume": 183.48,
       "type": "PartDesign::Body"
     },
@@ -231,6 +241,16 @@
       "label": "MR63ZZ",
       "output_name": "MR63ZZ",
       "volume": 56.61,
+      "type": "PartDesign::Body"
+    },
+    "05_Bearings.FCStd::Body": {
+      "enabled": false,
+      "format": "stl",
+      "file": "05_Bearings.FCStd",
+      "object_name": "Body",
+      "label": "MR62ZZ",
+      "output_name": "MR62ZZ",
+      "volume": 66.65,
       "type": "PartDesign::Body"
     },
     "06_Fasteners.FCStd::Body009": {
@@ -370,17 +390,7 @@
       "object_name": "Body073",
       "label": "PrintableAACarrier",
       "output_name": "PrintableAACarrier",
-      "volume": 3049.85,
-      "type": "PartDesign::Body"
-    },
-    "11_130MotorTiltedRearEnd.FCStd::Body013": {
-      "enabled": false,
-      "format": "stl",
-      "file": "11_130MotorTiltedRearEnd.FCStd",
-      "object_name": "Body013",
-      "label": "SmoothSolidAxleGearMount",
-      "output_name": "SmoothSolidAxleGearMount",
-      "volume": 639.02,
+      "volume": 2970.22,
       "type": "PartDesign::Body"
     },
     "11_130MotorTiltedRearEnd.FCStd::Body014": {
@@ -443,36 +453,6 @@
       "volume": 978.19,
       "type": "PartDesign::Body"
     },
-    "11_130MotorTiltedRearEnd.FCStd::Body047": {
-      "enabled": false,
-      "format": "stl",
-      "file": "11_130MotorTiltedRearEnd.FCStd",
-      "object_name": "Body047",
-      "label": "ThreadedSolidAxleGearMount",
-      "output_name": "ThreadedSolidAxleGearMount",
-      "volume": 605.54,
-      "type": "PartDesign::Body"
-    },
-    "11_130MotorTiltedRearEnd.FCStd::Body075": {
-      "enabled": true,
-      "format": "stl",
-      "file": "11_130MotorTiltedRearEnd.FCStd",
-      "object_name": "Body075",
-      "label": "RearAxleMountCombined",
-      "output_name": "RearAxleMountCombined",
-      "volume": 1407.74,
-      "type": "PartDesign::Body"
-    },
-    "11_130MotorTiltedRearEnd.FCStd::Body086": {
-      "enabled": false,
-      "format": "stl",
-      "file": "11_130MotorTiltedRearEnd.FCStd",
-      "object_name": "Body086",
-      "label": "ThreadedGearMountClone",
-      "output_name": "ThreadedGearMountClone",
-      "volume": 605.54,
-      "type": "PartDesign::Body"
-    },
     "11_130MotorTiltedRearEnd.FCStd::Body087": {
       "enabled": true,
       "format": "stl",
@@ -481,16 +461,6 @@
       "label": "130MotorTiltedRearMount",
       "output_name": "130MotorTiltedRearMount",
       "volume": 1293.56,
-      "type": "PartDesign::Body"
-    },
-    "11_130MotorTiltedRearEnd.FCStd::Body088": {
-      "enabled": false,
-      "format": "stl",
-      "file": "11_130MotorTiltedRearEnd.FCStd",
-      "object_name": "Body088",
-      "label": "RearAxleMountCombinedClone",
-      "output_name": "RearAxleMountCombinedClone",
-      "volume": 1407.74,
       "type": "PartDesign::Body"
     },
     "12_SmoothRearAxle.FCStd::Body012": {
@@ -651,16 +621,6 @@
       "label": "130Motor15DegreeMount",
       "output_name": "130Motor15DegreeMount",
       "volume": 2172.16,
-      "type": "PartDesign::Body"
-    },
-    "14_130MotorFlatRear.FCStd::Body075": {
-      "enabled": false,
-      "format": "stl",
-      "file": "14_130MotorFlatRear.FCStd",
-      "object_name": "Body075",
-      "label": "RearAxleMountCombined",
-      "output_name": "RearAxleMountCombined",
-      "volume": 1407.74,
       "type": "PartDesign::Body"
     },
     "14_130MotorFlatRear.FCStd::Body077": {
@@ -839,18 +799,18 @@
       "file": "19_PanChassisSinglePiece.FCStd",
       "object_name": "Body071",
       "label": "PanChassisSingle",
-      "output_name": "PanChassisSingle",
-      "volume": 12446.01,
+      "output_name": "PanChassisSinglePieceMain",
+      "volume": 12257.14,
       "type": "PartDesign::Body"
     },
-    "20_PanChassisSinglePieceAABatt.FCStd::Body074": {
+    "19_PanChassisSinglePiece.FCStd::Body": {
       "enabled": true,
       "format": "stl",
-      "file": "20_PanChassisSinglePieceAABatt.FCStd",
-      "object_name": "Body074",
-      "label": "PanChassisSingleAABatt",
-      "output_name": "PanChassisSingleAABatt",
-      "volume": 18545.72,
+      "file": "19_PanChassisSinglePiece.FCStd",
+      "object_name": "Body",
+      "label": "PanChassisSinglePieceAAMain",
+      "output_name": "PanChassisSinglePieceAAMain",
+      "volume": 18197.6,
       "type": "PartDesign::Body"
     },
     "21_PanChassisThreePiece.FCStd::Body076": {
