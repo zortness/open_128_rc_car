@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "source_file": "..\\Mini_128_Car.FCStd",
+  "output_dir": "..\\modular_car",
+  "assembly_file": "00_CarAssembly.FCStd",
+  "destinations": {
+    "00_GeometryReference.FCStd": {
+      "description": "Master Parameters (VarSet) and Reference Sketches",
+      "is_reference": true,
+      "items": [
+        "VarSet",
+        "Part"
+      ]
+    },
+    "00_RearPanPlateFlatMount.FCStd": {
+      "description": "Shared Rear Pan Plate Mount",
+      "items": [
+        "Body033"
+      ]
+    },
+    "01_PanChassisTwoPiece.FCStd": {
+      "description": "Part: PanChassisTwoPiece",
+      "items": [
+        "Part001"
+      ]
+    },
+    "02_WheelProxies.FCStd": {
+      "description": "Part: WheelProxies",
+      "items": [
+        "Part002"
+      ]
+    },
+    "03_Servo.FCStd": {
+      "description": "Part: Servo",
+      "items": [
+        "Part003"
+      ]
+    },
+    "04_Gears.FCStd": {
+      "description": "Part: Gears",
+      "items": [
+        "Part004"
+      ]
+    },
+    "05_Bearings.FCStd": {
+      "description": "Part: Bearings",
+      "items": [
+        "Part005"
+      ]
+    },
+    "06_Fasteners.FCStd": {
+      "description": "Part: Fasteners",
+      "items": [
+        "Part006"
+      ]
+    },
+    "07_Tools.FCStd": {
+      "description": "Part: Tools",
+      "items": [
+        "Part007"
+      ]
+    },
+    "08_Wheels.FCStd": {
+      "description": "Part: Wheels",
+      "items": [
+        "Part008"
+      ]
+    },
+    "09_Motors.FCStd": {
+      "description": "Part: Motors",
+      "items": [
+        "Part009"
+      ]
+    },
+    "10_Batteries.FCStd": {
+      "description": "Part: Batteries",
+      "items": [
+        "Part010"
+      ]
+    },
+    "11_130MotorTiltedRearEnd.FCStd": {
+      "description": "Part: 130MotorTiltedRearEnd",
+      "items": [
+        "Part011"
+      ]
+    },
+    "12_SmoothRearAxle.FCStd": {
+      "description": "Part: SmoothRearAxle",
+      "items": [
+        "Part012"
+      ]
+    },
+    "13_ThreadedRearAxle.FCStd": {
+      "description": "Part: ThreadedRearAxle",
+      "items": [
+        "Part013",
+        "Body048"
+      ]
+    },
+    "14_130MotorFlatRear.FCStd": {
+      "description": "Part: 130MotorFlatRear",
+      "items": [
+        "Part014"
+      ]
+    },
+    "15_1410MotorFlatRear.FCStd": {
+      "description": "Part: 1410MotorFlatRear",
+      "items": [
+        "Part015"
+      ]
+    },
+    "16_TireMold.FCStd": {
+      "description": "Part: TireMold",
+      "items": [
+        "Part016"
+      ]
+    },
+    "17_TPlate.FCStd": {
+      "description": "Part: TPlate",
+      "items": [
+        "Part017"
+      ]
+    },
+    "18_BodyPosts.FCStd": {
+      "description": "Part: BodyPosts",
+      "items": [
+        "Part018"
+      ]
+    },
+    "19_PanChassisSinglePiece.FCStd": {
+      "description": "Part: PanChassisSinglePiece",
+      "items": [
+        "Part019"
+      ]
+    },
+    "20_PanChassisSinglePieceAABatt.FCStd": {
+      "description": "Part: PanChassisSinglePieceAABatt",
+      "items": [
+        "Part020"
+      ]
+    },
+    "21_PanChassisThreePiece.FCStd": {
+      "description": "Part: PanChassisThreePiece",
+      "items": [
+        "Part021"
+      ]
+    }
+  },
+  "execution_tiers": [
+    [
+      "00_GeometryReference.FCStd",
+      "00_RearPanPlateFlatMount.FCStd",
+      "01_PanChassisTwoPiece.FCStd",
+      "02_WheelProxies.FCStd",
+      "03_Servo.FCStd",
+      "04_Gears.FCStd",
+      "05_Bearings.FCStd",
+      "06_Fasteners.FCStd",
+      "07_Tools.FCStd",
+      "08_Wheels.FCStd",
+      "09_Motors.FCStd",
+      "10_Batteries.FCStd",
+      "11_130MotorTiltedRearEnd.FCStd",
+      "12_SmoothRearAxle.FCStd",
+      "15_1410MotorFlatRear.FCStd",
+      "16_TireMold.FCStd",
+      "17_TPlate.FCStd",
+      "18_BodyPosts.FCStd",
+      "19_PanChassisSinglePiece.FCStd",
+      "20_PanChassisSinglePieceAABatt.FCStd",
+      "21_PanChassisThreePiece.FCStd"
+    ],
+    [
+      "13_ThreadedRearAxle.FCStd"
+    ],
+    [
+      "14_130MotorFlatRear.FCStd"
+    ]
+  ]
+}
