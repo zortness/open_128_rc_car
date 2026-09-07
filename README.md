@@ -31,7 +31,7 @@ You will need [Python 3.14](https://www.python.org/downloads/) or higher to run 
 the tools, like the automated exporter.
 
 ## Advanced Topics ##
-For the truly adventurous, you can make your own [tires](doc/tires/tires.md).
+For the truly adventurous, you can make your own [tires](doc/tires/diytires.md).
 
 ## Contributing ##
 See [Contributing](doc/contributing.md) for more info.
@@ -45,7 +45,8 @@ See [Contributing](doc/contributing.md) for more info.
 - [Electronics](doc/electronics.md)
 - [Batteries](doc/batteries.md)
 - [Trasmitters and Receivers](doc/receivers.md)
-- [DIY Tires](doc/tires/tires.md)
+- [Tires](doc/tires/tires.md)
+- [DIY Tires](doc/tires/diytires.md)
 - [History](doc/history.md)
 - [Contributing](doc/contributing.md)
 

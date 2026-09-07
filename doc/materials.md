@@ -10,6 +10,7 @@
 - Side Cutters (recommended)
 - Wire Stripper Pliers (recommended)
 - Small Metric Drill bits (recommended)
+- Hook and Loop tap (recommended)
 
 ## Basic BoM ##
 For the printed parts see [Getting Started](gettingstarted.md) and [Printing](printing.md).

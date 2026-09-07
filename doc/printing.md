@@ -20,7 +20,24 @@ requires additional considerations and support during printing, and often requir
 
 ## Basic Car Parts ##
 
-[WIP]
+- 1 piece chassis `PanChassisSinglePieceMain.stl`
+ - or With AA mounts if using 14500 or AA size batteries `PanChassisSinglePieceAAMain.stl`
+- Steering knuckles (see below)
+ - `SteeringKnuckle_Right.stl` and `SteeringKnuckle_Left.stl`
+- Steering linkage `SteeringLink.stl`
+- Servo Mount
+ - Start with `MicroServoMountLongThrow.stl`
+ - Optionally, print `MicroServoHorn5mmX9mm.stl`, but it is recommended to trim down the horns that came with your servos
+- Motor mount `130MotorTiltedRearMount.stl` (see below)
+- 10-tooth Pinion Gear `Pinion_10T_M05.stl`
+- 42-tooth Straight Main Gear `MainGear42T_M05.stl`
+- Rear Axle Mount `ThreadedRearAxleMountComnbined.stl`
+- Rear Axle Spacer for left side `ThreadedRearAxleSpacer.stl`
+- Rear Axle Gear Mount for right side `ThreadedSolidAxleGearMount.stl`
+- 2x Front Wheel `FrontWheel.stl`
+- 2x Rear Wheel with no bearing `RearWheel.stl`
+- 2x M2 nut `M2PlasticWheelNut4.5mm.stl` (probably print more)
+- 4x M3 nut `M3PlasticWheelNut5.5mm.stl` (probably print more)
 
 
 ## Part-Specific Tips ##

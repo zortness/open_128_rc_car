@@ -13,7 +13,7 @@ If you wish to make a variant or new part, start a new FCStd file and import the
 geometry from any parts that the new part depends on.
 
 ## Part Naming ##
-WIP
+[Provisional]
 - You do not need to include a numeric prefix. The existing numbers are an artifact of splitting
 the original file.
 - You can create subfolders if there are multiple related files.
