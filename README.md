@@ -19,6 +19,7 @@ You will need several [materials](doc/materials.md) and tools. This documentatio
 will try to walk through the recommended options to get started with the basics.
 
 ## Printing and Assembly ##
+See [Getting Started](doc/gettingstarted.md).
 See [Printing](doc/printing.md) and [Assembly](doc/assembly.md).
 
 ## Building from Source ##
@@ -28,7 +29,7 @@ You will need [FreeCAD 1.1](https://www.freecad.org/) or higher.
 - With History Workbench installed (recommended)
 
 You will need [Python 3.14](https://www.python.org/downloads/) or higher to run some of
-the tools, like the automated exporter.
+the tools, like the automated exporter. See [Exporiting](doc/export.md).
 
 ## Advanced Topics ##
 For the truly adventurous, you can make your own [tires](doc/tires/diytires.md).
@@ -47,6 +48,7 @@ See [Contributing](doc/contributing.md) for more info.
 - [Trasmitters and Receivers](doc/receivers.md)
 - [Tires](doc/tires/tires.md)
 - [DIY Tires](doc/tires/diytires.md)
+- [Exporting](doc/export.md)
 - [History](doc/history.md)
 - [Contributing](doc/contributing.md)
-
+- [Licenses](LICENSE.md)
