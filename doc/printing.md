@@ -20,6 +20,8 @@ requires additional considerations and support during printing, and often requir
 
 ## Basic Car Parts ##
 
+[WIP]
+
 
 ## Part-Specific Tips ##
 
@@ -27,12 +29,18 @@ requires additional considerations and support during printing, and often requir
 Print these vertically. You want the least amount of distortion on the vertical tube, since it will have 
 to slide on the bolt during operation. Print with ample supports for the steering arm attachment point.
 
+![print_knuckles](img/print_steering_knuckles.png)
+
 ### 130 Motor Flat 15 Degree ###
 This is a motor mount that holds the motor at a 15 degree angle to the rear axle and drive gear, but 
 allows the motor to sit flat against the rear plate. 
-[WIP]
+
+Print this on its side with the main structure parallel but raised up from the bed.
+
+![print_130_15](img/print_130_motor_15deg.png)
 
 ### 130 Motor Tilted ###
 This is a motor mount that lifs the at a 45 degree angle to clear the rear axle, much in the way of the
 MR-02 2WD Kyosho cars solve this same packaging problem. 
-[WIP]
+
+![print_130_tilt](img/print_130_motor_tilted.png)
