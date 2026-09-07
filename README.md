@@ -3,34 +3,49 @@ This is a collection of 3D files built in [FreeCAD](https://www.freecad.org/).
 It began as a project with a goal of making the least expensive viable RC car that
 would still be suitable for competitions for STEM programs in schools. 
 
-## H2GP Roots ##
-I coach a team in the [H2GP](https://www.h2grandprix.com/), where each car costs
-thousands of dollars on top of the hundreds of hours of research and labor. 
-This program, the cars, the staff, and competition are amazing. It is, however,
-a high barrier of entry, and many schools can only afford to run a small handful of
-teams. 
+See the [History](doc/history.md) page for more info.
 
-The idea to make a very simple, highly modifiable, and cost conscious car came 
-from discussions in the stands and pits with other coaches and teachers during 
-these events.
+## Current State ##
+As of Summer 2026, the Mid-Tier cars we've built and assembled are competitive with
+box-stock cars of the main manufacturers. 
 
-## Philosophy ##
-My original goal was to get the amortized cost of a car down to about $50. Depending
-on your pre-existing knowledge, tools, etc, this project is pretty close to that, but
-probably closer to $70 per car until you crest 15+ cars built. 
+## Downloading ##
+See the releases tab for the latest releases. These packages contain the most common
+files and variants that should be more than enough to get you started with a functional
+car.
 
-After letting our H2GP team bash these cars around for many hours of practice, they wanted
-to push toward a new goal of making cars that are actually competitive at the 1:28 
-scale against commercial alternatives. As such, many of the more recent modifications and 
-additions are moving in that direction. Right now, we have cars that are close in 
-overall performance to box-stock 1:28 cars that can be built for under $100. 
+## Materials Needed ##
+You will need several [materials](doc/materials.md) and tools. This documentation
+will try to walk through the recommended options to get started with the basics.
 
-Once I saw what high schoolers can do with the cars and these files, I'm altering my
-goals a bit more. I want this project to provide a competitive and cost-conscious foundation
-that allows experimenters to achieve truly competitive cars.
+## Printing and Assembly ##
+See [Printing](doc/printing.md) and [Assembly](doc/assembly.md).
 
-## Development ##
-This project is currently entirely done in FreeCAD. This was partly a challenge to 
-myself to learn a new tool, but also a decision to move toward something both free 
-and more accessible than tools like OpenSCAD that I had previously used to teach CAD.
+## Building from Source ##
+You will need [FreeCAD 1.1](https://www.freecad.org/) or higher.
+- With Gear Workbench installed (required)
+- With Fasteners Workbench installed (required)
+- With History Workbench installed (recommended)
+
+You will need [Python 3.14](https://www.python.org/downloads/) or higher to run some of
+the tools, like the automated exporter.
+
+## Advanced Topics ##
+For the truly adventurous, you can make your own [tires](doc/tires/tires.md).
+
+## Contributing ##
+See [Contributing](doc/contributing.md) for more info.
+
+
+## Index ##
+- [Getting Started](doc/gettingstarted.md)
+- [Printing](doc/printing.md)
+- [Materials](doc/materials.md)
+- [Assembly](doc/assembly.md)
+- [Electronics](doc/electronics.md)
+- [Batteries](doc/batteries.md)
+- [Trasmitters and Receivers](doc/receivers.md)
+- [DIY Tires](doc/tires/tires.md)
+- [History](doc/history.md)
+- [Contributing](doc/contributing.md)
 
