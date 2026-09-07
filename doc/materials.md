@@ -78,6 +78,8 @@ require a gear pulling/installing tool (Pinion Puller) if you decide to use bras
 - [Example Pinion Tool](https://www.amazon.com/dp/B0CQ23ZW3G) ($20)
 - [Example Gears](https://www.aliexpress.us/item/3256808560628405.html) ($5)
 
+![brass_gears](img/brass_gears.png)
+
 ## Electronics ##
 You will need:
 - Motor
@@ -105,3 +107,4 @@ from your local home improvement store and arranging them into a track. This is
 essentially what the official 1:28 tracks are made out of, with nicer barriers
 and smoother surfaces.
 
+![test_track](img/testing2.png)

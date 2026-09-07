@@ -1,5 +1,5 @@
 # Assembly #
-
+![basic_assembly](img/basic_assembly.png)
 
 ## Basic Assembly ##
 

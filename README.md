@@ -9,6 +9,11 @@ See the [History](doc/history.md) page for more info.
 As of Summer 2026, the Mid-Tier cars we've built and assembled are competitive with
 box-stock cars of the main manufacturers. 
 
+![brushless](doc/img/car_with_1410_brushless.png)
+![brushed_tilted](doc/img/car_with_tilted_rear.png)
+![brushed_15deg](doc/img/car_with_15deg_rear.png)
+
+
 ## Downloading ##
 See the releases tab for the latest releases. These packages contain the most common
 files and variants that should be more than enough to get you started with a functional
@@ -30,6 +35,8 @@ You will need [FreeCAD 1.1](https://www.freecad.org/) or higher.
 
 You will need [Python 3.14](https://www.python.org/downloads/) or higher to run some of
 the tools, like the automated exporter. See [Exporiting](doc/export.md).
+
+![brushed_15deg_cad](doc/img/car_with_15deg_rear_cad.jpg)
 
 ## Advanced Topics ##
 For the truly adventurous, you can make your own [tires](doc/tires/diytires.md).

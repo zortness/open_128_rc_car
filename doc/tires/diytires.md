@@ -9,6 +9,9 @@ that demonstrated a method for creating tires using a urethane casting resin. Ni
 videos were extremely helpful in allowing us to come up with a general recipe that
 worked for our cars, but there is a lot of room left to experiment.
 
+![tire_molds](../img/tire_molds.png)
+![tires](../img/tires_from_molds.png)
+
 ## Materials ##
 Assuming you already have a 3D printer, you are looking at about $100 in materials to get started. 
 At about $7 for a set of front tires, and $8 for a set of rears, you will need to

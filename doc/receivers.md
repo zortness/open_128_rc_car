@@ -11,6 +11,8 @@ The receivers are large, but you can wrap the antennas and stuff them into the c
 
 These are sometimes sold under different brand names, such as HobbyKing. 
 
+![flysky_trans](img/budget_transmitters.png)
+
 
 ## High End Options ##
 The most common controllers you will see at a track are the 

@@ -12,6 +12,8 @@ The idea to make a very simple, highly modifiable, and cost conscious car came
 from discussions in the stands and pits with other coaches and teachers during 
 these events.
 
+![worlds_2026](img/h2gp_worlds_2026.png)
+
 ## Philosophy ##
 My original goal was to get the amortized cost of a car down to about $50. Depending
 on your pre-existing knowledge, tools, etc, this project is pretty close to that, but
@@ -31,3 +33,9 @@ that allows experimenters to achieve truly competitive cars.
 This project is currently entirely done in FreeCAD. This was partly a challenge to 
 myself to learn a new tool, but also a decision to move toward something both free 
 and more accessible than tools like OpenSCAD that I had previously used to teach CAD.
+
+![early_cars](img/early_cars.png)
+
+![testing1](img/testing.png)
+
+![testing2](img/testing2.png)

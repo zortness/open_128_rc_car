@@ -73,9 +73,17 @@ piece for the inexpensive variants. If you get lucky, you might be able to find
 one with carbon brushes instead of copper. Copper also works fine, but carbon 
 brushes should last longer.
 
+Copper Brushes:
+![copper_motor](img/130_motor_copper.png)
+
+Carbon / Graphite Brushes:
+![carbon_motor](img/130_motor_graphite.png)
+
 With these budget motors, sometimes it's possible to modify them by taking them
 apart and reducing the number of windings to increase the KV. This will speed up
 the motor, but likely reduce the lifespan.
+
+![budget_car](img/car_with_tilted_rear.png)
 
 We have tested these [10-packs of inexpensive 130 motors](https://www.amazon.com/dp/B078MR3H45) 
 for many hours and modified several of them. ($14 for 10)
@@ -95,19 +103,28 @@ ubiquitous cheap-servo-blue cases are a great budget option. ($19 for 10)
 ## Mid-Tier Options ##
 There are numerous Brushed Motor and ESC combinations advertised on Ebay and AliExpress.
 
+### Brushed ###
 Racing Brushed Motor and ESC.
-[TG Racing 130 Motors on AliExpress](https://www.aliexpress.us/item/3256808970209600.html) ($10 for 1)
+- [TG Racing 130 Motors on AliExpress](https://www.aliexpress.us/item/3256808970209600.html) ($10 for 1)
 
+![tg_motor](img/car_with_15deg_rear.png)
+
+
+### Brushless ###
 Budget Brushless Motor and ESC.
-[NHX 2500KV Brushless Motor and ESC Combo on Ebay](https://www.ebay.com/itm/133949755095) ($60)
-[YSIDIO 1410 Brushless Motor and ESC on AliExpress](https://www.aliexpress.us/item/3256805346661858.html) ($37)
+- [NHX 2500KV Brushless Motor and ESC Combo on Ebay](https://www.ebay.com/itm/133949755095) ($60)
+- [YSIDIO 1410 Brushless Motor and ESC on AliExpress](https://www.aliexpress.us/item/3256805346661858.html) ($37)
 
+![ysidio_motor](img/car_with_1410_brushless.png)
+![nhx_motor](img/modified_mid_tier_car.png)
+
+### Servos ###
 You are looking for inexpensive metal gear servos for speed and durability:
-[MG90s Metal Gear Servo on Amazon](https://www.amazon.com/dp/B0CP98TZJ2) ($14 for 4)
-[TG Digital Servo on AliExpress](https://www.aliexpress.us/item/3256808443190336.html) ($18 for 1)
+- [MG90s Metal Gear Servo on Amazon](https://www.amazon.com/dp/B0CP98TZJ2) ($14 for 4)
+- [TG Digital Servo on AliExpress](https://www.aliexpress.us/item/3256808443190336.html) ($18 for 1)
 
 Or inexpensive sub-micro servos to save space/weight:
-[4.3g Sub-Micro Servo on AliExpress](https://www.aliexpress.us/item/3256808612960463.html) ($5 each)
+- [4.3g Sub-Micro Servo on AliExpress](https://www.aliexpress.us/item/3256808612960463.html) ($5 each)
 
 ## High-End Options ##
 At the high end, you are looking for a Sensored Brushless Motor and ESC. You can find these from

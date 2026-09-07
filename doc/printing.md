@@ -1,6 +1,10 @@
 # Printing Tips and Tricks #
+![printing](img/printing.png)
 
 ## Printer Setup ##
+You do not need a large or expensive printer to print these cars. All of our test cars were printed
+with a Bambu P1S, which is a mid-tier printer.
+
 It is recommended to start by printing with PLA, as it is the cheapest and easiest to iterate with.
 A PLA car is generally a great starter car, but may start to sag or warp after several hours of use.
 

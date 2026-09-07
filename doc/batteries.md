@@ -6,6 +6,8 @@ range of voltages.
 In general, unless you are using a specific 1S ESC (uncommon), your battery setup
 needs to achieve at least 6 Volts, and more typically close to 8 Volts.
 
+![batteries](img/batteries.png)
+
 ## Battery Configuration ##
 To build a 6V to 8V battery pack voltage range will require at least 
 2 cells in series in most cases. Sometimes more.
@@ -82,7 +84,8 @@ also have the highest variance in cell quality, meaning you can have really good
 or really terrible performance, depending on the battery brandh. 
 
 Instead of being able to run 2S (2 in series) like the lithium batteries, we will 
-need to run at least 4S when using NiMH. This is how a stock Kyosho car will come.
+need to run at least 4S when using NiMH. This is how a stock Kyosho car will come, with
+4x AAA-sized NiMH batteries required.
 
 ## Specific Recommendations ##
 
