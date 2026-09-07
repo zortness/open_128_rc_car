@@ -36,6 +36,8 @@ and more accessible than tools like OpenSCAD that I had previously used to teach
 
 ![early_cars](img/early_cars.png)
 
+![iterations](img/many_iterations.png)
+
 ![testing1](img/testing.png)
 
 ![testing2](img/testing2.png)
