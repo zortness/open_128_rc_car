@@ -12,7 +12,7 @@ box-stock cars of the main manufacturers.
 ![brushless](doc/img/car_with_1410_brushless.png)
 ![brushed_tilted](doc/img/car_with_tilted_rear.png)
 ![brushed_15deg](doc/img/car_with_15deg_rear.png)
-
+![modified](doc/img/modified_mid_tier_car.png)
 
 ## Downloading ##
 See the releases tab for the latest releases. These packages contain the most common
