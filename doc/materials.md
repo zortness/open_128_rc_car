@@ -17,19 +17,19 @@ For the printed parts see [Getting Started](gettingstarted.md) and [Printing](pr
 
 ### Screws & Nuts ###
 - 1x M3x75mm Threaded Rod (rear axle)
- - 2x M3 steel nuts
- - 2x M3 locknuts (printed or metal + nylon)
+  - 2x M3 steel nuts
+  - 2x M3 locknuts (printed or metal + nylon)
 - 2x M3x16mm (front axles)
- - 2x M3 locknuts (printed or metal + nylon)
+  - 2x M3 locknuts (printed or metal + nylon)
 - 2x M2x12mm (front steering uprights)
- - 2x M2 locknuts (printed or metal + nylon)
+  - 2x M2 locknuts (printed or metal + nylon)
 - 2x M2x8mm (front steering links)
 - 2x M2x6mm (servo mounting)
 - 2x M2x4mm (servo mount to floor pan)
 - 1x M2x6mm (motor mount pinch for brushed motors)
- - 1x M2 nut for motor pinch
+  - 1x M2 nut for motor pinch
 - 3x M2x4mm (motor mount to floor pan)
- - 3x M2 Nut for motor mount
+  - 3x M2 Nut for motor mount
 - 4x M2x4mm (rear axle mount)
 - 2x M2x6mm (main gear mount)
 

@@ -11,11 +11,11 @@ need:
 - A 130-size DC motor (See [Electronics](electronics.md))
 - A Brushed motor Electronic Speed Controller (ESC) (See [Electronics](electronics.md))
 - A battery configuration (See [Batteries](batteries.md))
- - 2x LiFePO4 14500 size (AA) with charger
-  - Battery terminal connectors
- - OR a 2S LiPo / LiIon battery
-  - Appropriate connectors (XT-30 or JST)
- - An appropriate charge for either setup
+  - 2x LiFePO4 14500 size (AA) with charger
+    - Battery terminal connectors
+  - OR a 2S LiPo / LiIon battery
+    - Appropriate connectors (XT-30 or JST)
+  - An appropriate charge for either setup
 - A Transmitter and Receiver (See [Transmitters and Receivers](receivers.md))
 - 2x narrow front tires
 - 2x wide rear tires
@@ -26,13 +26,13 @@ Print these parts, see [Printing](printing.md) for additional information for
 specific parts.
 
 - 1 piece chassis `PanChassisSinglePieceMain.stl`
- - or With AA mounts if using 14500 or AA size batteries `PanChassisSinglePieceAAMain.stl`
+  - or With AA mounts if using 14500 or AA size batteries `PanChassisSinglePieceAAMain.stl`
 - Steering knuckles (see [Printing](printing.md))
- - `SteeringKnuckle_Right.stl` and `SteeringKnuckle_Left.stl`
+  - `SteeringKnuckle_Right.stl` and `SteeringKnuckle_Left.stl`
 - Steering linkage `SteeringLink.stl`
 - Servo Mount
- - Start with `MicroServoMountLongThrow.stl`
- - Optionally, print `MicroServoHorn5mmX9mm.stl`, but it is recommended to trim down the horns that came with your servos
+  - Start with `MicroServoMountLongThrow.stl`
+  - Optionally, print `MicroServoHorn5mmX9mm.stl`, but it is recommended to trim down the horns that came with your servos
 - Motor mount `130MotorTiltedRearMount.stl` (see [Printing](printing.md))
 - 10-tooth Pinion Gear `Pinion_10T_M05.stl`
 - 42-tooth Straight Main Gear `MainGear42T_M05.stl`

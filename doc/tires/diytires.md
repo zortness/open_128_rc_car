@@ -74,7 +74,7 @@ OR
 
 ### Prepare The Molds ###
 - Apply mold release to main face of both molds and upper braces.
- - A light coating, you don't need to overdo it.
+  - A light coating, you don't need to overdo it.
 - Let stand for 5 minutes. 
 - Flip and apply another coat to the back side of molds.
 - Let stand for 5 minutes.
@@ -86,20 +86,20 @@ about 10 minutes. Read through this section before starting.
 
 ### Mix Urethane ###
 - Part A
- - Turn on scale
- - Set empty cup on scale
- - Tare scale
- - Pour 15g of part A into cup while on scale
- - Set Part A to side
+  - Turn on scale
+  - Set empty cup on scale
+  - Tare scale
+  - Pour 15g of part A into cup while on scale
+  - Set Part A to side
 - Part B
- - Set second empty cup on scale
- - Tare scale
- - Pour 15g of part B into cup while on scale 
+  - Set second empty cup on scale
+  - Tare scale
+  - Pour 15g of part B into cup while on scale 
 - Carbon Black / Lamp Black
- - Use tiny measuring spoon to extract about 0.25g of carbon black and tap it into one of the mixes
- - Do not touch your measuring spoon to the mix
+  - Use tiny measuring spoon to extract about 0.25g of carbon black and tap it into one of the mixes
+  - Do not touch your measuring spoon to the mix
 - Pour Part A (thinner) into Part B (thicker)
- - mix thoroughly for about 3 minutes with a mixing stick
+  - mix thoroughly for about 3 minutes with a mixing stick
 
 ### Mold Pouring ###
 Molds should be within a splash safe area, as urethane will stick to almost anything.
