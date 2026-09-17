@@ -47,7 +47,7 @@ The cars are designed to be built with only one type of bearing, the commonly av
 at the tradeoff of needing a couple M3 screws per car. However, you can follow what Kyosho does
 and use an M2 front axle, if you can find some MR62ZZ bearings.
 
-- 6x [MR63ZZ Bearings](https://www.amazon.com/dp/B0DBQV76LD) ($9 for 20)
+- 6x [MR63ZZ Bearings](https://www.amazon.com/dp/B0DY11G865) ($9 for 20)
 - (Optional) 4x [MR62ZZ Bearings](https://www.amazon.com/dp/B0DBQV76LD)
 
 6x MR63ZZ per car.

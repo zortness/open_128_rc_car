@@ -19,6 +19,7 @@ need:
 - A Transmitter and Receiver (See [Transmitters and Receivers](receivers.md))
 - 2x narrow front tires
 - 2x wide rear tires
+- 6x MR63ZZ bearings
 
 ## Print ##
 Download the latest release.
