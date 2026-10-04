@@ -12,6 +12,8 @@
 - Small Metric Drill bits (recommended)
 - Hook and Loop tap (recommended)
 
+![assembly_parts](img/assembly_parts.jpg)
+
 ## Basic BoM ##
 For the printed parts see [Getting Started](gettingstarted.md) and [Printing](printing.md).
 

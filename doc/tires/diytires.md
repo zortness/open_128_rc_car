@@ -12,6 +12,15 @@ worked for our cars, but there is a lot of room left to experiment.
 ![tire_molds](../img/tire_molds.png)
 ![tires](../img/tires_from_molds.png)
 
+- [Video 1 - Results](https://www.youtube.com/shorts/KFW3lIj04KQ)
+- [Video 2 - Mold Prep](https://www.youtube.com/watch?v=bqIWgSsQQlw)
+- [Video 3 - Heating](https://www.youtube.com/watch?v=EFLkVkMNqh4)
+- [Video 4 - Mixing Prep](https://www.youtube.com/watch?v=rZVht2L4nNo)
+- [Video 5 - Pour Prep](https://www.youtube.com/watch?v=ZeqlwVe74fA)
+- [Video 6 - Mixing](https://www.youtube.com/watch?v=JHCaA9XlHv4)
+- [Video 7 - Pouring](https://www.youtube.com/watch?v=PlN8m7KV1bo)
+- [Video 8 - Curing](https://www.youtube.com/watch?v=UfTrvAAhHPg)
+
 ## Materials ##
 Assuming you already have a 3D printer, you are looking at about $100 in materials to get started. 
 At about $7 for a set of front tires, and $8 for a set of rears, you will need to

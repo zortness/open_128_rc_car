@@ -1,7 +1,9 @@
 # Assembly #
-![basic_assembly](img/basic_assembly.png)
+[![basic_assembly](img/basic_assembly.png)](https://www.youtube.com/watch?v=5ow8rVMhNYM)
+Click for timelapse video.
 
 ## Basic Assembly ##
+![assebly_parts](img/assembly_parts.jpg)
 
 ### Step 1 ###
 - M2x16 (2x) front screws through the floor pan for steering knuckles
